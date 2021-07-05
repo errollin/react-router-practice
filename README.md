@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# react-router-practice
+
+A react practice project learn from Max on Udemy.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
